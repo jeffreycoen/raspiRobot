@@ -7,6 +7,6 @@ Autonomous RC Car which can perform object recognition and avoidance
 * RasPiRobot V3f motor hat
 
 ## Software
-* Raspian Stretch
+* Raspbian Stretch
 * OpenCV 3.3
 * Legacy Python
