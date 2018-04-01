@@ -1,0 +1,16 @@
+#copy and paste the instructions below into the command line to run
+
+python real_time_object_detection.py \
+	--prototxt MobileNetSSD_deploy.prototxt.txt \
+	--model MobileNetSSD_deploy.caffemodel
+
+
+
+
+
+
+
+#RUN THIS ONE!  For some reason it works much, much better
+python pi_object_detection.py \
+	--prototxt MobileNetSSD_deploy.prototxt.txt \
+	--model MobileNetSSD_deploy.caffemodel
